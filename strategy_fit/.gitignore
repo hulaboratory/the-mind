@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+aic_generative_results_compact/
+combined_strategy_figures/

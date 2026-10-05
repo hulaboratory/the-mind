@@ -26,6 +26,7 @@ results/            Saved game-level JSON results (If you want to analyse the re
 simulation/         Parameter-sweep simulation outputs (If you want to access the simulation results, you can either contact Xiulin or simply run LLM/agent_play_simulation.py to generate the results)
 vis_results/        Visualizations generated from the results
 r_code/             R scripts for statistical analysis and figures
+strategy_fit/       Strategy-model fitting and AIC/BIC model comparison (Figures 3 and 10)
 submit/             Submission or batch-job helpers
 requirements.txt    Python dependencies
 ```
@@ -84,6 +85,10 @@ The R scripts in `r_code/` read JSON summaries from `analysis_results/`.
 Some analysis scripts currently contain absolute local paths. Update their
 `ANALYSIS_DIR` or `results_dir` variables before running them on another
 machine.
+
+The strategy-fit analysis (which cognitive strategy best explains each player's timing;
+Figure 3 for AIC and Figure 10 for BIC) is in `strategy_fit/`. It reads the game-level
+records from `results/`; see `strategy_fit/README.md` for how to run it.
 
 ## Citation
 To be updated.

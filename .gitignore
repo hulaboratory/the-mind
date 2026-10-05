@@ -1,0 +1,6 @@
+# game-level data are distributed separately (see README)
+results
+simulation
+__pycache__/
+*.pyc
+.DS_Store
