@@ -1,0 +1,2616 @@
+{
+    "Qwen3-8B": {
+        "bayesian_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 37,
+                    "time": 14
+                },
+                "1": {
+                    "success": 49,
+                    "time": 15
+                },
+                "2": {
+                    "success": 46,
+                    "time": 14
+                },
+                "3": {
+                    "success": 42,
+                    "time": 3
+                },
+                "4": {
+                    "success": 46,
+                    "time": 10
+                },
+                "5": {
+                    "success": 56,
+                    "time": 10
+                },
+                "6": {
+                    "success": 36,
+                    "time": 5
+                },
+                "7": {
+                    "success": 47,
+                    "time": 6
+                },
+                "8": {
+                    "success": 41,
+                    "time": 11
+                },
+                "9": {
+                    "success": 38,
+                    "time": 8
+                }
+            }
+        },
+        "bayesian_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 35,
+                    "time": 8
+                },
+                "1": {
+                    "success": 38,
+                    "time": 6
+                },
+                "2": {
+                    "success": 42,
+                    "time": 8
+                },
+                "3": {
+                    "success": 35,
+                    "time": 10
+                },
+                "4": {
+                    "success": 38,
+                    "time": 4
+                },
+                "5": {
+                    "success": 56,
+                    "time": 12
+                },
+                "6": {
+                    "success": 45,
+                    "time": 14
+                },
+                "7": {
+                    "success": 53,
+                    "time": 10
+                },
+                "8": {
+                    "success": 43,
+                    "time": 10
+                },
+                "9": {
+                    "success": 42,
+                    "time": 8
+                }
+            }
+        },
+        "llm_same": {
+            "time_based_second": {
+                "10": {
+                    "success": 41,
+                    "time": 0
+                },
+                "1": {
+                    "success": 27,
+                    "time": 5
+                },
+                "2": {
+                    "success": 36,
+                    "time": 2
+                },
+                "3": {
+                    "success": 32,
+                    "time": 2
+                },
+                "4": {
+                    "success": 46,
+                    "time": 0
+                },
+                "5": {
+                    "success": 32,
+                    "time": 3
+                },
+                "6": {
+                    "success": 36,
+                    "time": 1
+                },
+                "7": {
+                    "success": 37,
+                    "time": 6
+                },
+                "8": {
+                    "success": 32,
+                    "time": 0
+                },
+                "9": {
+                    "success": 38,
+                    "time": 2
+                }
+            }
+        },
+        "random": {
+            "time_based_second": {
+                "10": {
+                    "success": 29,
+                    "time": 6
+                },
+                "1": {
+                    "success": 39,
+                    "time": 7
+                },
+                "2": {
+                    "success": 38,
+                    "time": 8
+                },
+                "3": {
+                    "success": 37,
+                    "time": 13
+                },
+                "4": {
+                    "success": 30,
+                    "time": 6
+                },
+                "5": {
+                    "success": 39,
+                    "time": 16
+                },
+                "6": {
+                    "success": 29,
+                    "time": 9
+                },
+                "7": {
+                    "success": 44,
+                    "time": 6
+                },
+                "8": {
+                    "success": 34,
+                    "time": 10
+                },
+                "9": {
+                    "success": 28,
+                    "time": 11
+                }
+            }
+        },
+        "count_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 30,
+                    "time": 8
+                },
+                "1": {
+                    "success": 39,
+                    "time": 15
+                },
+                "2": {
+                    "success": 40,
+                    "time": 18
+                },
+                "3": {
+                    "success": 36,
+                    "time": 16
+                },
+                "4": {
+                    "success": 29,
+                    "time": 13
+                },
+                "5": {
+                    "success": 41,
+                    "time": 14
+                },
+                "6": {
+                    "success": 30,
+                    "time": 14
+                },
+                "7": {
+                    "success": 32,
+                    "time": 4
+                },
+                "8": {
+                    "success": 34,
+                    "time": 13
+                },
+                "9": {
+                    "success": 42,
+                    "time": 18
+                }
+            }
+        },
+        "count_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 31,
+                    "time": 9
+                },
+                "1": {
+                    "success": 38,
+                    "time": 11
+                },
+                "2": {
+                    "success": 36,
+                    "time": 11
+                },
+                "3": {
+                    "success": 33,
+                    "time": 19
+                },
+                "4": {
+                    "success": 19,
+                    "time": 12
+                },
+                "5": {
+                    "success": 41,
+                    "time": 5
+                },
+                "6": {
+                    "success": 36,
+                    "time": 9
+                },
+                "7": {
+                    "success": 40,
+                    "time": 16
+                },
+                "8": {
+                    "success": 35,
+                    "time": 7
+                },
+                "9": {
+                    "success": 39,
+                    "time": 10
+                }
+            }
+        }
+    },
+    "gemini-3.7-flash": {
+        "bayesian_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 88,
+                    "time": 283
+                },
+                "1": {
+                    "success": 99,
+                    "time": 255
+                },
+                "2": {
+                    "success": 102,
+                    "time": 259
+                },
+                "3": {
+                    "success": 93,
+                    "time": 190
+                },
+                "4": {
+                    "success": 80,
+                    "time": 190
+                },
+                "5": {
+                    "success": 96,
+                    "time": 178
+                },
+                "6": {
+                    "success": 96,
+                    "time": 212
+                },
+                "7": {
+                    "success": 86,
+                    "time": 231
+                },
+                "8": {
+                    "success": 91,
+                    "time": 180
+                },
+                "9": {
+                    "success": 100,
+                    "time": 201
+                }
+            }
+        },
+        "bayesian_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 89,
+                    "time": 115
+                },
+                "1": {
+                    "success": 95,
+                    "time": 158
+                },
+                "2": {
+                    "success": 82,
+                    "time": 111
+                },
+                "3": {
+                    "success": 85,
+                    "time": 128
+                },
+                "4": {
+                    "success": 75,
+                    "time": 96
+                },
+                "5": {
+                    "success": 84,
+                    "time": 117
+                },
+                "6": {
+                    "success": 79,
+                    "time": 111
+                },
+                "7": {
+                    "success": 89,
+                    "time": 144
+                },
+                "8": {
+                    "success": 81,
+                    "time": 92
+                },
+                "9": {
+                    "success": 92,
+                    "time": 153
+                }
+            }
+        },
+        "random": {
+            "time_based_second": {
+                "10": {
+                    "success": 61,
+                    "time": 97
+                },
+                "1": {
+                    "success": 58,
+                    "time": 102
+                },
+                "2": {
+                    "success": 71,
+                    "time": 110
+                },
+                "3": {
+                    "success": 58,
+                    "time": 108
+                },
+                "4": {
+                    "success": 66,
+                    "time": 75
+                },
+                "5": {
+                    "success": 51,
+                    "time": 87
+                },
+                "6": {
+                    "success": 51,
+                    "time": 89
+                },
+                "7": {
+                    "success": 50,
+                    "time": 89
+                },
+                "8": {
+                    "success": 62,
+                    "time": 94
+                },
+                "9": {
+                    "success": 47,
+                    "time": 93
+                }
+            }
+        },
+        "count_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 79,
+                    "time": 269
+                },
+                "1": {
+                    "success": 73,
+                    "time": 358
+                },
+                "2": {
+                    "success": 81,
+                    "time": 248
+                },
+                "3": {
+                    "success": 80,
+                    "time": 370
+                },
+                "4": {
+                    "success": 80,
+                    "time": 372
+                },
+                "5": {
+                    "success": 81,
+                    "time": 318
+                },
+                "6": {
+                    "success": 72,
+                    "time": 271
+                },
+                "7": {
+                    "success": 79,
+                    "time": 395
+                },
+                "8": {
+                    "success": 61,
+                    "time": 168
+                },
+                "9": {
+                    "success": 81,
+                    "time": 329
+                }
+            }
+        },
+        "count_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 68,
+                    "time": 221
+                },
+                "1": {
+                    "success": 77,
+                    "time": 197
+                },
+                "2": {
+                    "success": 74,
+                    "time": 230
+                },
+                "3": {
+                    "success": 84,
+                    "time": 251
+                },
+                "4": {
+                    "success": 79,
+                    "time": 238
+                },
+                "5": {
+                    "success": 88,
+                    "time": 226
+                },
+                "6": {
+                    "success": 77,
+                    "time": 229
+                },
+                "7": {
+                    "success": 74,
+                    "time": 179
+                },
+                "8": {
+                    "success": 80,
+                    "time": 156
+                },
+                "9": {
+                    "success": 81,
+                    "time": 280
+                }
+            }
+        },
+        "llm_same": {
+            "time_based_second": {
+                "10": {
+                    "success": 92,
+                    "time": 162
+                },
+                "1": {
+                    "success": 94,
+                    "time": 169
+                },
+                "2": {
+                    "success": 90,
+                    "time": 137
+                },
+                "3": {
+                    "success": 92,
+                    "time": 171
+                },
+                "4": {
+                    "success": 96,
+                    "time": 150
+                },
+                "5": {
+                    "success": 90,
+                    "time": 150
+                },
+                "6": {
+                    "success": 89,
+                    "time": 140
+                },
+                "7": {
+                    "success": 92,
+                    "time": 176
+                },
+                "8": {
+                    "success": 86,
+                    "time": 145
+                },
+                "9": {
+                    "success": 93,
+                    "time": 145
+                }
+            }
+        },
+        "llm_different": {
+            "time_based_second": {
+                "10": {
+                    "success": 60,
+                    "time": 257
+                },
+                "1": {
+                    "success": 79,
+                    "time": 280
+                },
+                "2": {
+                    "success": 69,
+                    "time": 235
+                },
+                "3": {
+                    "success": 66,
+                    "time": 306
+                },
+                "4": {
+                    "success": 76,
+                    "time": 175
+                },
+                "5": {
+                    "success": 89,
+                    "time": 214
+                },
+                "6": {
+                    "success": 75,
+                    "time": 236
+                },
+                "7": {
+                    "success": 54,
+                    "time": 269
+                },
+                "8": {
+                    "success": 68,
+                    "time": 229
+                },
+                "9": {
+                    "success": 68,
+                    "time": 215
+                }
+            }
+        }
+    },
+    "gpt-5.6-luna": {
+        "bayesian_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 69,
+                    "time": 123
+                },
+                "1": {
+                    "success": 70,
+                    "time": 144
+                },
+                "2": {
+                    "success": 76,
+                    "time": 150
+                },
+                "3": {
+                    "success": 64,
+                    "time": 89
+                },
+                "4": {
+                    "success": 75,
+                    "time": 103
+                },
+                "5": {
+                    "success": 82,
+                    "time": 111
+                },
+                "6": {
+                    "success": 65,
+                    "time": 114
+                },
+                "7": {
+                    "success": 68,
+                    "time": 124
+                },
+                "8": {
+                    "success": 58,
+                    "time": 102
+                },
+                "9": {
+                    "success": 82,
+                    "time": 101
+                }
+            }
+        },
+        "bayesian_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 80,
+                    "time": 57
+                },
+                "1": {
+                    "success": 65,
+                    "time": 69
+                },
+                "2": {
+                    "success": 46,
+                    "time": 64
+                },
+                "3": {
+                    "success": 76,
+                    "time": 56
+                },
+                "4": {
+                    "success": 62,
+                    "time": 67
+                },
+                "5": {
+                    "success": 77,
+                    "time": 56
+                },
+                "6": {
+                    "success": 63,
+                    "time": 50
+                },
+                "7": {
+                    "success": 77,
+                    "time": 81
+                },
+                "8": {
+                    "success": 67,
+                    "time": 45
+                },
+                "9": {
+                    "success": 71,
+                    "time": 50
+                }
+            }
+        },
+        "random": {
+            "time_based_second": {
+                "10": {
+                    "success": 66,
+                    "time": 77
+                },
+                "1": {
+                    "success": 45,
+                    "time": 76
+                },
+                "2": {
+                    "success": 71,
+                    "time": 92
+                },
+                "3": {
+                    "success": 46,
+                    "time": 94
+                },
+                "4": {
+                    "success": 51,
+                    "time": 73
+                },
+                "5": {
+                    "success": 68,
+                    "time": 92
+                },
+                "6": {
+                    "success": 56,
+                    "time": 77
+                },
+                "7": {
+                    "success": 52,
+                    "time": 68
+                },
+                "8": {
+                    "success": 58,
+                    "time": 68
+                },
+                "9": {
+                    "success": 59,
+                    "time": 81
+                }
+            }
+        },
+        "count_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 58,
+                    "time": 151
+                },
+                "1": {
+                    "success": 51,
+                    "time": 128
+                },
+                "2": {
+                    "success": 59,
+                    "time": 166
+                },
+                "3": {
+                    "success": 44,
+                    "time": 156
+                },
+                "4": {
+                    "success": 42,
+                    "time": 124
+                },
+                "5": {
+                    "success": 61,
+                    "time": 146
+                },
+                "6": {
+                    "success": 52,
+                    "time": 139
+                },
+                "7": {
+                    "success": 49,
+                    "time": 137
+                },
+                "8": {
+                    "success": 58,
+                    "time": 183
+                },
+                "9": {
+                    "success": 57,
+                    "time": 127
+                }
+            }
+        },
+        "count_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 63,
+                    "time": 143
+                },
+                "1": {
+                    "success": 54,
+                    "time": 119
+                },
+                "2": {
+                    "success": 61,
+                    "time": 125
+                },
+                "3": {
+                    "success": 61,
+                    "time": 100
+                },
+                "4": {
+                    "success": 58,
+                    "time": 140
+                },
+                "5": {
+                    "success": 74,
+                    "time": 152
+                },
+                "6": {
+                    "success": 72,
+                    "time": 105
+                },
+                "7": {
+                    "success": 61,
+                    "time": 109
+                },
+                "8": {
+                    "success": 70,
+                    "time": 115
+                },
+                "9": {
+                    "success": 66,
+                    "time": 103
+                }
+            }
+        },
+        "llm_different": {
+            "time_based_second": {
+                "10": {
+                    "success": 75,
+                    "time": 130
+                },
+                "1": {
+                    "success": 83,
+                    "time": 102
+                },
+                "2": {
+                    "success": 72,
+                    "time": 114
+                },
+                "3": {
+                    "success": 78,
+                    "time": 96
+                },
+                "4": {
+                    "success": 77,
+                    "time": 84
+                },
+                "5": {
+                    "success": 82,
+                    "time": 93
+                },
+                "6": {
+                    "success": 64,
+                    "time": 82
+                },
+                "7": {
+                    "success": 75,
+                    "time": 113
+                },
+                "8": {
+                    "success": 73,
+                    "time": 80
+                },
+                "9": {
+                    "success": 76,
+                    "time": 90
+                }
+            }
+        },
+        "llm_same": {
+            "time_based_second": {
+                "10": {
+                    "success": 63,
+                    "time": 61
+                },
+                "1": {
+                    "success": 67,
+                    "time": 111
+                },
+                "2": {
+                    "success": 71,
+                    "time": 102
+                },
+                "3": {
+                    "success": 71,
+                    "time": 61
+                },
+                "4": {
+                    "success": 73,
+                    "time": 65
+                },
+                "5": {
+                    "success": 75,
+                    "time": 85
+                },
+                "6": {
+                    "success": 75,
+                    "time": 90
+                },
+                "7": {
+                    "success": 75,
+                    "time": 97
+                },
+                "8": {
+                    "success": 61,
+                    "time": 54
+                },
+                "9": {
+                    "success": 68,
+                    "time": 62
+                }
+            }
+        }
+    },
+    "gpt-6-astra": {
+        "bayesian_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 78,
+                    "time": 252
+                },
+                "1": {
+                    "success": 81,
+                    "time": 218
+                },
+                "2": {
+                    "success": 83,
+                    "time": 227
+                },
+                "3": {
+                    "success": 90,
+                    "time": 212
+                },
+                "4": {
+                    "success": 86,
+                    "time": 212
+                },
+                "5": {
+                    "success": 92,
+                    "time": 213
+                },
+                "6": {
+                    "success": 91,
+                    "time": 202
+                },
+                "7": {
+                    "success": 88,
+                    "time": 241
+                },
+                "8": {
+                    "success": 91,
+                    "time": 168
+                },
+                "9": {
+                    "success": 92,
+                    "time": 203
+                }
+            }
+        },
+        "bayesian_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 81,
+                    "time": 107
+                },
+                "1": {
+                    "success": 89,
+                    "time": 113
+                },
+                "2": {
+                    "success": 85,
+                    "time": 85
+                },
+                "3": {
+                    "success": 98,
+                    "time": 156
+                },
+                "4": {
+                    "success": 67,
+                    "time": 126
+                },
+                "5": {
+                    "success": 95,
+                    "time": 110
+                },
+                "6": {
+                    "success": 77,
+                    "time": 92
+                },
+                "7": {
+                    "success": 90,
+                    "time": 134
+                },
+                "8": {
+                    "success": 68,
+                    "time": 72
+                },
+                "9": {
+                    "success": 80,
+                    "time": 82
+                }
+            }
+        },
+        "random": {
+            "time_based_second": {
+                "10": {
+                    "success": 51,
+                    "time": 88
+                },
+                "1": {
+                    "success": 54,
+                    "time": 84
+                },
+                "2": {
+                    "success": 64,
+                    "time": 90
+                },
+                "3": {
+                    "success": 57,
+                    "time": 80
+                },
+                "4": {
+                    "success": 61,
+                    "time": 83
+                },
+                "5": {
+                    "success": 50,
+                    "time": 88
+                },
+                "6": {
+                    "success": 43,
+                    "time": 70
+                },
+                "7": {
+                    "success": 36,
+                    "time": 79
+                },
+                "8": {
+                    "success": 64,
+                    "time": 93
+                },
+                "9": {
+                    "success": 44,
+                    "time": 76
+                }
+            }
+        },
+        "count_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 104,
+                    "time": 647
+                },
+                "1": {
+                    "success": 106,
+                    "time": 654
+                },
+                "2": {
+                    "success": 106,
+                    "time": 580
+                },
+                "3": {
+                    "success": 106,
+                    "time": 663
+                },
+                "4": {
+                    "success": 98,
+                    "time": 463
+                },
+                "5": {
+                    "success": 104,
+                    "time": 564
+                },
+                "6": {
+                    "success": 103,
+                    "time": 603
+                },
+                "7": {
+                    "success": 104,
+                    "time": 647
+                },
+                "8": {
+                    "success": 102,
+                    "time": 520
+                },
+                "9": {
+                    "success": 101,
+                    "time": 477
+                }
+            }
+        },
+        "count_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 83,
+                    "time": 230
+                },
+                "1": {
+                    "success": 104,
+                    "time": 573
+                },
+                "2": {
+                    "success": 98,
+                    "time": 408
+                },
+                "3": {
+                    "success": 106,
+                    "time": 609
+                },
+                "4": {
+                    "success": 88,
+                    "time": 390
+                },
+                "5": {
+                    "success": 100,
+                    "time": 478
+                },
+                "6": {
+                    "success": 100,
+                    "time": 525
+                },
+                "7": {
+                    "success": 74,
+                    "time": 176
+                },
+                "8": {
+                    "success": 77,
+                    "time": 288
+                },
+                "9": {
+                    "success": 88,
+                    "time": 307
+                }
+            }
+        },
+        "llm_different": {
+            "time_based_second": {
+                "10": {
+                    "success": 79,
+                    "time": 152
+                },
+                "1": {
+                    "success": 88,
+                    "time": 187
+                },
+                "2": {
+                    "success": 84,
+                    "time": 154
+                },
+                "3": {
+                    "success": 93,
+                    "time": 129
+                },
+                "4": {
+                    "success": 82,
+                    "time": 118
+                },
+                "5": {
+                    "success": 80,
+                    "time": 101
+                },
+                "6": {
+                    "success": 99,
+                    "time": 139
+                },
+                "7": {
+                    "success": 91,
+                    "time": 158
+                },
+                "8": {
+                    "success": 94,
+                    "time": 127
+                },
+                "9": {
+                    "success": 102,
+                    "time": 124
+                }
+            }
+        },
+        "llm_same": {
+            "time_based_second": {
+                "10": {
+                    "success": 83,
+                    "time": 108
+                },
+                "1": {
+                    "success": 100,
+                    "time": 119
+                },
+                "2": {
+                    "success": 104,
+                    "time": 131
+                },
+                "3": {
+                    "success": 100,
+                    "time": 130
+                },
+                "4": {
+                    "success": 89,
+                    "time": 137
+                },
+                "5": {
+                    "success": 88,
+                    "time": 108
+                },
+                "6": {
+                    "success": 98,
+                    "time": 135
+                },
+                "7": {
+                    "success": 86,
+                    "time": 123
+                },
+                "8": {
+                    "success": 88,
+                    "time": 113
+                },
+                "9": {
+                    "success": 78,
+                    "time": 113
+                }
+            }
+        }
+    },
+    "gpt-oss-120b": {
+        "bayesian_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 82,
+                    "time": 377
+                },
+                "1": {
+                    "success": 86,
+                    "time": 383
+                },
+                "2": {
+                    "success": 82,
+                    "time": 326
+                },
+                "3": {
+                    "success": 78,
+                    "time": 334
+                },
+                "4": {
+                    "success": 68,
+                    "time": 327
+                },
+                "5": {
+                    "success": 88,
+                    "time": 297
+                },
+                "6": {
+                    "success": 78,
+                    "time": 351
+                },
+                "7": {
+                    "success": 84,
+                    "time": 380
+                },
+                "8": {
+                    "success": 80,
+                    "time": 278
+                },
+                "9": {
+                    "success": 84,
+                    "time": 243
+                }
+            }
+        },
+        "bayesian_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 79,
+                    "time": 259
+                },
+                "1": {
+                    "success": 86,
+                    "time": 404
+                },
+                "2": {
+                    "success": 67,
+                    "time": 276
+                },
+                "3": {
+                    "success": 84,
+                    "time": 347
+                },
+                "4": {
+                    "success": 51,
+                    "time": 85
+                },
+                "5": {
+                    "success": 81,
+                    "time": 319
+                },
+                "6": {
+                    "success": 63,
+                    "time": 216
+                },
+                "7": {
+                    "success": 76,
+                    "time": 344
+                },
+                "8": {
+                    "success": 79,
+                    "time": 279
+                },
+                "9": {
+                    "success": 89,
+                    "time": 301
+                }
+            }
+        },
+        "llm_different": {
+            "time_based_second": {
+                "1": {
+                    "success": 69,
+                    "time": 311
+                },
+                "2": {
+                    "success": 62,
+                    "time": 214
+                },
+                "3": {
+                    "success": 82,
+                    "time": 282
+                },
+                "4": {
+                    "success": 65,
+                    "time": 221
+                },
+                "5": {
+                    "success": 67,
+                    "time": 254
+                },
+                "6": {
+                    "success": 75,
+                    "time": 207
+                },
+                "7": {
+                    "success": 75,
+                    "time": 326
+                },
+                "8": {
+                    "success": 74,
+                    "time": 224
+                },
+                "9": {
+                    "success": 87,
+                    "time": 260
+                },
+                "10": {
+                    "success": 67,
+                    "time": 267
+                }
+            }
+        },
+        "random": {
+            "time_based_second": {
+                "10": {
+                    "success": 38,
+                    "time": 87
+                },
+                "1": {
+                    "success": 31,
+                    "time": 25
+                },
+                "2": {
+                    "success": 41,
+                    "time": 18
+                },
+                "3": {
+                    "success": 49,
+                    "time": 33
+                },
+                "4": {
+                    "success": 51,
+                    "time": 60
+                },
+                "5": {
+                    "success": 30,
+                    "time": 48
+                },
+                "6": {
+                    "success": 37,
+                    "time": 30
+                },
+                "7": {
+                    "success": 38,
+                    "time": 51
+                },
+                "8": {
+                    "success": 48,
+                    "time": 62
+                },
+                "9": {
+                    "success": 39,
+                    "time": 51
+                }
+            }
+        },
+        "count_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 71,
+                    "time": 376
+                },
+                "1": {
+                    "success": 67,
+                    "time": 446
+                },
+                "2": {
+                    "success": 79,
+                    "time": 522
+                },
+                "3": {
+                    "success": 72,
+                    "time": 460
+                },
+                "4": {
+                    "success": 70,
+                    "time": 495
+                },
+                "5": {
+                    "success": 83,
+                    "time": 439
+                },
+                "6": {
+                    "success": 61,
+                    "time": 373
+                },
+                "7": {
+                    "success": 82,
+                    "time": 417
+                },
+                "8": {
+                    "success": 76,
+                    "time": 338
+                },
+                "9": {
+                    "success": 89,
+                    "time": 447
+                }
+            }
+        },
+        "count_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 78,
+                    "time": 461
+                },
+                "1": {
+                    "success": 70,
+                    "time": 420
+                },
+                "2": {
+                    "success": 72,
+                    "time": 434
+                },
+                "3": {
+                    "success": 66,
+                    "time": 221
+                },
+                "4": {
+                    "success": 62,
+                    "time": 412
+                },
+                "5": {
+                    "success": 82,
+                    "time": 459
+                },
+                "6": {
+                    "success": 78,
+                    "time": 286
+                },
+                "7": {
+                    "success": 71,
+                    "time": 397
+                },
+                "8": {
+                    "success": 62,
+                    "time": 258
+                },
+                "9": {
+                    "success": 68,
+                    "time": 269
+                }
+            }
+        },
+        "llm_same": {
+            "time_based_second": {
+                "10": {
+                    "success": 70,
+                    "time": 421
+                },
+                "1": {
+                    "success": 82,
+                    "time": 455
+                },
+                "2": {
+                    "success": 71,
+                    "time": 338
+                },
+                "3": {
+                    "success": 72,
+                    "time": 387
+                },
+                "4": {
+                    "success": 65,
+                    "time": 370
+                },
+                "5": {
+                    "success": 78,
+                    "time": 389
+                },
+                "6": {
+                    "success": 71,
+                    "time": 366
+                },
+                "7": {
+                    "success": 75,
+                    "time": 405
+                },
+                "8": {
+                    "success": 78,
+                    "time": 385
+                },
+                "9": {
+                    "success": 77,
+                    "time": 324
+                }
+            }
+        }
+    },
+    "gpt-oss-20b": {
+        "bayesian_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 75,
+                    "time": 332
+                },
+                "1": {
+                    "success": 64,
+                    "time": 313
+                },
+                "2": {
+                    "success": 71,
+                    "time": 274
+                },
+                "3": {
+                    "success": 75,
+                    "time": 323
+                },
+                "4": {
+                    "success": 61,
+                    "time": 219
+                },
+                "5": {
+                    "success": 82,
+                    "time": 304
+                },
+                "6": {
+                    "success": 72,
+                    "time": 281
+                },
+                "7": {
+                    "success": 78,
+                    "time": 354
+                },
+                "8": {
+                    "success": 77,
+                    "time": 275
+                },
+                "9": {
+                    "success": 72,
+                    "time": 270
+                }
+            }
+        },
+        "bayesian_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 64,
+                    "time": 229
+                },
+                "1": {
+                    "success": 70,
+                    "time": 401
+                },
+                "2": {
+                    "success": 64,
+                    "time": 153
+                },
+                "3": {
+                    "success": 56,
+                    "time": 236
+                },
+                "4": {
+                    "success": 75,
+                    "time": 257
+                },
+                "5": {
+                    "success": 53,
+                    "time": 105
+                },
+                "6": {
+                    "success": 54,
+                    "time": 115
+                },
+                "7": {
+                    "success": 59,
+                    "time": 172
+                },
+                "8": {
+                    "success": 68,
+                    "time": 156
+                },
+                "9": {
+                    "success": 58,
+                    "time": 98
+                }
+            }
+        },
+        "random": {
+            "time_based_second": {
+                "10": {
+                    "success": 57,
+                    "time": 92
+                },
+                "1": {
+                    "success": 36,
+                    "time": 50
+                },
+                "2": {
+                    "success": 51,
+                    "time": 33
+                },
+                "3": {
+                    "success": 49,
+                    "time": 37
+                },
+                "4": {
+                    "success": 54,
+                    "time": 52
+                },
+                "5": {
+                    "success": 41,
+                    "time": 56
+                },
+                "6": {
+                    "success": 42,
+                    "time": 51
+                },
+                "7": {
+                    "success": 38,
+                    "time": 54
+                },
+                "8": {
+                    "success": 50,
+                    "time": 42
+                },
+                "9": {
+                    "success": 55,
+                    "time": 100
+                }
+            }
+        },
+        "count_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 66,
+                    "time": 317
+                },
+                "1": {
+                    "success": 58,
+                    "time": 286
+                },
+                "2": {
+                    "success": 62,
+                    "time": 405
+                },
+                "3": {
+                    "success": 62,
+                    "time": 387
+                },
+                "4": {
+                    "success": 71,
+                    "time": 386
+                },
+                "5": {
+                    "success": 80,
+                    "time": 397
+                },
+                "6": {
+                    "success": 64,
+                    "time": 281
+                },
+                "7": {
+                    "success": 72,
+                    "time": 477
+                },
+                "8": {
+                    "success": 73,
+                    "time": 352
+                },
+                "9": {
+                    "success": 75,
+                    "time": 315
+                }
+            }
+        },
+        "count_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 70,
+                    "time": 349
+                },
+                "1": {
+                    "success": 66,
+                    "time": 350
+                },
+                "2": {
+                    "success": 73,
+                    "time": 415
+                },
+                "3": {
+                    "success": 59,
+                    "time": 263
+                },
+                "4": {
+                    "success": 69,
+                    "time": 423
+                },
+                "5": {
+                    "success": 70,
+                    "time": 335
+                },
+                "6": {
+                    "success": 77,
+                    "time": 364
+                },
+                "7": {
+                    "success": 65,
+                    "time": 376
+                },
+                "8": {
+                    "success": 61,
+                    "time": 259
+                },
+                "9": {
+                    "success": 85,
+                    "time": 392
+                }
+            }
+        },
+        "llm_same": {
+            "time_based_second": {
+                "10": {
+                    "success": 72,
+                    "time": 408
+                },
+                "1": {
+                    "success": 69,
+                    "time": 391
+                },
+                "2": {
+                    "success": 66,
+                    "time": 369
+                },
+                "3": {
+                    "success": 70,
+                    "time": 346
+                },
+                "4": {
+                    "success": 59,
+                    "time": 211
+                },
+                "5": {
+                    "success": 55,
+                    "time": 276
+                },
+                "6": {
+                    "success": 70,
+                    "time": 218
+                },
+                "7": {
+                    "success": 60,
+                    "time": 292
+                },
+                "8": {
+                    "success": 67,
+                    "time": 297
+                },
+                "9": {
+                    "success": 63,
+                    "time": 364
+                }
+            }
+        }
+    },
+    "Llama-3.2-1B-Instruct": {
+        "bayesian_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 27,
+                    "time": 0
+                },
+                "1": {
+                    "success": 41,
+                    "time": 1
+                },
+                "2": {
+                    "success": 45,
+                    "time": 2
+                },
+                "3": {
+                    "success": 35,
+                    "time": 1
+                },
+                "4": {
+                    "success": 46,
+                    "time": 0
+                },
+                "5": {
+                    "success": 44,
+                    "time": 1
+                },
+                "6": {
+                    "success": 27,
+                    "time": 1
+                },
+                "7": {
+                    "success": 45,
+                    "time": 2
+                },
+                "8": {
+                    "success": 40,
+                    "time": 0
+                },
+                "9": {
+                    "success": 41,
+                    "time": 0
+                }
+            }
+        },
+        "bayesian_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 41,
+                    "time": 12
+                },
+                "1": {
+                    "success": 40,
+                    "time": 5
+                },
+                "2": {
+                    "success": 47,
+                    "time": 13
+                },
+                "3": {
+                    "success": 40,
+                    "time": 9
+                },
+                "4": {
+                    "success": 44,
+                    "time": 11
+                },
+                "5": {
+                    "success": 43,
+                    "time": 14
+                },
+                "6": {
+                    "success": 44,
+                    "time": 9
+                },
+                "7": {
+                    "success": 35,
+                    "time": 6
+                },
+                "8": {
+                    "success": 43,
+                    "time": 12
+                },
+                "9": {
+                    "success": 46,
+                    "time": 16
+                }
+            }
+        },
+        "llm_same": {
+            "time_based_second": {
+                "10": {
+                    "success": 41,
+                    "time": 0
+                },
+                "1": {
+                    "success": 52,
+                    "time": 0
+                },
+                "2": {
+                    "success": 29,
+                    "time": 0
+                },
+                "3": {
+                    "success": 35,
+                    "time": 0
+                },
+                "4": {
+                    "success": 35,
+                    "time": 0
+                },
+                "5": {
+                    "success": 30,
+                    "time": 0
+                },
+                "6": {
+                    "success": 35,
+                    "time": 0
+                },
+                "7": {
+                    "success": 39,
+                    "time": 0
+                },
+                "8": {
+                    "success": 27,
+                    "time": 0
+                },
+                "9": {
+                    "success": 37,
+                    "time": 0
+                }
+            }
+        },
+        "random": {
+            "time_based_second": {
+                "10": {
+                    "success": 27,
+                    "time": 11
+                },
+                "1": {
+                    "success": 31,
+                    "time": 24
+                },
+                "2": {
+                    "success": 36,
+                    "time": 13
+                },
+                "3": {
+                    "success": 31,
+                    "time": 12
+                },
+                "4": {
+                    "success": 30,
+                    "time": 7
+                },
+                "5": {
+                    "success": 41,
+                    "time": 16
+                },
+                "6": {
+                    "success": 28,
+                    "time": 5
+                },
+                "7": {
+                    "success": 32,
+                    "time": 14
+                },
+                "8": {
+                    "success": 31,
+                    "time": 9
+                },
+                "9": {
+                    "success": 38,
+                    "time": 19
+                }
+            }
+        },
+        "count_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 27,
+                    "time": 0
+                },
+                "1": {
+                    "success": 31,
+                    "time": 0
+                },
+                "2": {
+                    "success": 36,
+                    "time": 1
+                },
+                "3": {
+                    "success": 31,
+                    "time": 0
+                },
+                "4": {
+                    "success": 29,
+                    "time": 1
+                },
+                "5": {
+                    "success": 41,
+                    "time": 1
+                },
+                "6": {
+                    "success": 28,
+                    "time": 0
+                },
+                "7": {
+                    "success": 32,
+                    "time": 2
+                },
+                "8": {
+                    "success": 33,
+                    "time": 0
+                },
+                "9": {
+                    "success": 38,
+                    "time": 1
+                }
+            }
+        },
+        "count_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 27,
+                    "time": 2
+                },
+                "1": {
+                    "success": 35,
+                    "time": 2
+                },
+                "2": {
+                    "success": 36,
+                    "time": 2
+                },
+                "3": {
+                    "success": 33,
+                    "time": 2
+                },
+                "4": {
+                    "success": 30,
+                    "time": 3
+                },
+                "5": {
+                    "success": 41,
+                    "time": 0
+                },
+                "6": {
+                    "success": 28,
+                    "time": 1
+                },
+                "7": {
+                    "success": 32,
+                    "time": 1
+                },
+                "8": {
+                    "success": 33,
+                    "time": 0
+                },
+                "9": {
+                    "success": 39,
+                    "time": 1
+                }
+            }
+        }
+    },
+    "Llama-3.1-70B-Instruct": {
+        "bayesian_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 56,
+                    "time": 201
+                },
+                "1": {
+                    "success": 58,
+                    "time": 202
+                },
+                "2": {
+                    "success": 71,
+                    "time": 192
+                },
+                "3": {
+                    "success": 79,
+                    "time": 271
+                },
+                "4": {
+                    "success": 60,
+                    "time": 194
+                },
+                "5": {
+                    "success": 73,
+                    "time": 223
+                },
+                "6": {
+                    "success": 70,
+                    "time": 142
+                },
+                "7": {
+                    "success": 59,
+                    "time": 168
+                },
+                "8": {
+                    "success": 67,
+                    "time": 183
+                },
+                "9": {
+                    "success": 78,
+                    "time": 215
+                }
+            }
+        },
+        "bayesian_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 54,
+                    "time": 73
+                },
+                "1": {
+                    "success": 64,
+                    "time": 193
+                },
+                "2": {
+                    "success": 59,
+                    "time": 78
+                },
+                "3": {
+                    "success": 59,
+                    "time": 52
+                },
+                "4": {
+                    "success": 59,
+                    "time": 80
+                },
+                "5": {
+                    "success": 53,
+                    "time": 53
+                },
+                "6": {
+                    "success": 48,
+                    "time": 68
+                },
+                "7": {
+                    "success": 64,
+                    "time": 95
+                },
+                "8": {
+                    "success": 70,
+                    "time": 78
+                },
+                "9": {
+                    "success": 64,
+                    "time": 93
+                }
+            }
+        },
+        "llm_same": {
+            "time_based_second": {
+                "10": {
+                    "success": 52,
+                    "time": 224
+                },
+                "1": {
+                    "success": 56,
+                    "time": 405
+                },
+                "2": {
+                    "success": 53,
+                    "time": 167
+                },
+                "3": {
+                    "success": 48,
+                    "time": 367
+                },
+                "4": {
+                    "success": 69,
+                    "time": 245
+                },
+                "5": {
+                    "success": 50,
+                    "time": 176
+                },
+                "6": {
+                    "success": 60,
+                    "time": 184
+                },
+                "7": {
+                    "success": 74,
+                    "time": 143
+                },
+                "8": {
+                    "success": 52,
+                    "time": 167
+                },
+                "9": {
+                    "success": 53,
+                    "time": 127
+                }
+            }
+        },
+        "random": {
+            "time_based_second": {
+                "10": {
+                    "success": 44,
+                    "time": 63
+                },
+                "1": {
+                    "success": 46,
+                    "time": 78
+                },
+                "2": {
+                    "success": 43,
+                    "time": 72
+                },
+                "3": {
+                    "success": 32,
+                    "time": 67
+                },
+                "4": {
+                    "success": 46,
+                    "time": 61
+                },
+                "5": {
+                    "success": 53,
+                    "time": 82
+                },
+                "6": {
+                    "success": 39,
+                    "time": 69
+                },
+                "7": {
+                    "success": 35,
+                    "time": 62
+                },
+                "8": {
+                    "success": 62,
+                    "time": 85
+                },
+                "9": {
+                    "success": 48,
+                    "time": 88
+                }
+            }
+        },
+        "count_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 56,
+                    "time": 255
+                },
+                "1": {
+                    "success": 62,
+                    "time": 257
+                },
+                "2": {
+                    "success": 63,
+                    "time": 317
+                },
+                "3": {
+                    "success": 51,
+                    "time": 188
+                },
+                "4": {
+                    "success": 70,
+                    "time": 342
+                },
+                "5": {
+                    "success": 62,
+                    "time": 237
+                },
+                "6": {
+                    "success": 57,
+                    "time": 138
+                },
+                "7": {
+                    "success": 58,
+                    "time": 178
+                },
+                "8": {
+                    "success": 61,
+                    "time": 264
+                },
+                "9": {
+                    "success": 61,
+                    "time": 284
+                }
+            }
+        },
+        "count_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 52,
+                    "time": 161
+                },
+                "1": {
+                    "success": 54,
+                    "time": 158
+                },
+                "2": {
+                    "success": 54,
+                    "time": 88
+                },
+                "3": {
+                    "success": 54,
+                    "time": 127
+                },
+                "4": {
+                    "success": 60,
+                    "time": 171
+                },
+                "5": {
+                    "success": 57,
+                    "time": 113
+                },
+                "6": {
+                    "success": 52,
+                    "time": 126
+                },
+                "7": {
+                    "success": 52,
+                    "time": 151
+                },
+                "8": {
+                    "success": 61,
+                    "time": 128
+                },
+                "9": {
+                    "success": 58,
+                    "time": 108
+                }
+            }
+        },
+        "llm_different": {
+            "time_based_second": {
+                "10": {
+                    "success": 63,
+                    "time": 137
+                },
+                "1": {
+                    "success": 66,
+                    "time": 167
+                },
+                "2": {
+                    "success": 74,
+                    "time": 150
+                },
+                "3": {
+                    "success": 74,
+                    "time": 163
+                },
+                "4": {
+                    "success": 69,
+                    "time": 123
+                },
+                "5": {
+                    "success": 66,
+                    "time": 106
+                },
+                "6": {
+                    "success": 55,
+                    "time": 135
+                },
+                "7": {
+                    "success": 64,
+                    "time": 134
+                },
+                "8": {
+                    "success": 69,
+                    "time": 182
+                },
+                "9": {
+                    "success": 62,
+                    "time": 148
+                }
+            }
+        }
+    },
+    "Llama-3.1-8B-Instruct": {
+        "bayesian_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 28,
+                    "time": 15
+                },
+                "1": {
+                    "success": 50,
+                    "time": 16
+                },
+                "2": {
+                    "success": 47,
+                    "time": 16
+                },
+                "3": {
+                    "success": 41,
+                    "time": 11
+                },
+                "4": {
+                    "success": 38,
+                    "time": 13
+                },
+                "5": {
+                    "success": 52,
+                    "time": 10
+                },
+                "6": {
+                    "success": 35,
+                    "time": 20
+                },
+                "7": {
+                    "success": 44,
+                    "time": 15
+                },
+                "8": {
+                    "success": 41,
+                    "time": 12
+                },
+                "9": {
+                    "success": 49,
+                    "time": 16
+                }
+            }
+        },
+        "bayesian_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 50,
+                    "time": 18
+                },
+                "1": {
+                    "success": 50,
+                    "time": 15
+                },
+                "2": {
+                    "success": 44,
+                    "time": 12
+                },
+                "3": {
+                    "success": 34,
+                    "time": 7
+                },
+                "4": {
+                    "success": 47,
+                    "time": 14
+                },
+                "5": {
+                    "success": 51,
+                    "time": 13
+                },
+                "6": {
+                    "success": 43,
+                    "time": 14
+                },
+                "7": {
+                    "success": 38,
+                    "time": 14
+                },
+                "8": {
+                    "success": 39,
+                    "time": 10
+                },
+                "9": {
+                    "success": 47,
+                    "time": 16
+                }
+            }
+        },
+        "llm_same": {
+            "time_based_second": {
+                "10": {
+                    "success": 38,
+                    "time": 2
+                },
+                "1": {
+                    "success": 36,
+                    "time": 6
+                },
+                "2": {
+                    "success": 26,
+                    "time": 4
+                },
+                "3": {
+                    "success": 43,
+                    "time": 4
+                },
+                "4": {
+                    "success": 35,
+                    "time": 3
+                },
+                "5": {
+                    "success": 32,
+                    "time": 5
+                },
+                "6": {
+                    "success": 35,
+                    "time": 4
+                },
+                "7": {
+                    "success": 51,
+                    "time": 5
+                },
+                "8": {
+                    "success": 31,
+                    "time": 2
+                },
+                "9": {
+                    "success": 37,
+                    "time": 2
+                }
+            }
+        },
+        "random": {
+            "time_based_second": {
+                "10": {
+                    "success": 29,
+                    "time": 28
+                },
+                "1": {
+                    "success": 28,
+                    "time": 22
+                },
+                "2": {
+                    "success": 39,
+                    "time": 39
+                },
+                "3": {
+                    "success": 22,
+                    "time": 24
+                },
+                "4": {
+                    "success": 29,
+                    "time": 25
+                },
+                "5": {
+                    "success": 42,
+                    "time": 29
+                },
+                "6": {
+                    "success": 36,
+                    "time": 28
+                },
+                "7": {
+                    "success": 38,
+                    "time": 27
+                },
+                "8": {
+                    "success": 35,
+                    "time": 27
+                },
+                "9": {
+                    "success": 41,
+                    "time": 36
+                }
+            }
+        },
+        "count_false": {
+            "time_based_second": {
+                "10": {
+                    "success": 35,
+                    "time": 24
+                },
+                "1": {
+                    "success": 33,
+                    "time": 13
+                },
+                "2": {
+                    "success": 38,
+                    "time": 17
+                },
+                "3": {
+                    "success": 29,
+                    "time": 18
+                },
+                "4": {
+                    "success": 36,
+                    "time": 26
+                },
+                "5": {
+                    "success": 44,
+                    "time": 19
+                },
+                "6": {
+                    "success": 30,
+                    "time": 20
+                },
+                "7": {
+                    "success": 36,
+                    "time": 29
+                },
+                "8": {
+                    "success": 33,
+                    "time": 11
+                },
+                "9": {
+                    "success": 37,
+                    "time": 11
+                }
+            }
+        },
+        "count_true": {
+            "time_based_second": {
+                "10": {
+                    "success": 33,
+                    "time": 18
+                },
+                "1": {
+                    "success": 37,
+                    "time": 12
+                },
+                "2": {
+                    "success": 40,
+                    "time": 13
+                },
+                "3": {
+                    "success": 36,
+                    "time": 16
+                },
+                "4": {
+                    "success": 27,
+                    "time": 18
+                },
+                "5": {
+                    "success": 40,
+                    "time": 10
+                },
+                "6": {
+                    "success": 29,
+                    "time": 19
+                },
+                "7": {
+                    "success": 31,
+                    "time": 15
+                },
+                "8": {
+                    "success": 29,
+                    "time": 15
+                },
+                "9": {
+                    "success": 39,
+                    "time": 16
+                }
+            }
+        }
+    }
+}

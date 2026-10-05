@@ -1,0 +1,266 @@
+{
+    "count_false": {
+        "3": [
+            {
+                "success": 70,
+                "hesitation_time": 518.568
+            }
+        ],
+        "10": [
+            {
+                "success": 58,
+                "hesitation_time": 500.60499999999973
+            }
+        ],
+        "6": [
+            {
+                "success": 56,
+                "hesitation_time": 453.5869999999996
+            }
+        ],
+        "5": [
+            {
+                "success": 70,
+                "hesitation_time": 412.6089999999998
+            }
+        ],
+        "1": [
+            {
+                "success": 45,
+                "hesitation_time": 541.6379999999998
+            }
+        ],
+        "8": [
+            {
+                "success": 62,
+                "hesitation_time": 447.42700000000013
+            }
+        ],
+        "7": [
+            {
+                "success": 67,
+                "hesitation_time": 507.7719999999997
+            }
+        ],
+        "9": [
+            {
+                "success": 52,
+                "hesitation_time": 450.51900000000006
+            }
+        ],
+        "2": [
+            {
+                "success": 70,
+                "hesitation_time": 478.94300000000004
+            }
+        ],
+        "4": [
+            {
+                "success": 57,
+                "hesitation_time": 478.597
+            }
+        ]
+    },
+    "bayesian_false": {
+        "7": [
+            {
+                "success": 67,
+                "hesitation_time": 558.0769999999998
+            }
+        ],
+        "1": [
+            {
+                "success": 63,
+                "hesitation_time": 565.8929999999998
+            }
+        ],
+        "10": [
+            {
+                "success": 74,
+                "hesitation_time": 545.3029999999999
+            }
+        ],
+        "5": [
+            {
+                "success": 72,
+                "hesitation_time": 475.8689999999998
+            }
+        ],
+        "6": [
+            {
+                "success": 70,
+                "hesitation_time": 465.12
+            }
+        ],
+        "4": [
+            {
+                "success": 74,
+                "hesitation_time": 455.29299999999995
+            }
+        ],
+        "3": [
+            {
+                "success": 73,
+                "hesitation_time": 451.54099999999977
+            }
+        ],
+        "8": [
+            {
+                "success": 73,
+                "hesitation_time": 501.20099999999996
+            }
+        ]
+    },
+    "bayesian_true": {
+        "1": [
+            {
+                "success": 83,
+                "hesitation_time": 987.9200000000003
+            }
+        ],
+        "10": [
+            {
+                "success": 74,
+                "hesitation_time": 834.359
+            }
+        ],
+        "4": [
+            {
+                "success": 80,
+                "hesitation_time": 875.5050000000001
+            }
+        ],
+        "7": [
+            {
+                "success": 79,
+                "hesitation_time": 765.8359999999998
+            },
+            {
+                "success": 79,
+                "hesitation_time": 814.1060000000003
+            }
+        ],
+        "3": [
+            {
+                "success": 85,
+                "hesitation_time": 851.7480000000003
+            }
+        ],
+        "5": [
+            {
+                "success": 82,
+                "hesitation_time": 611.5050000000001
+            }
+        ],
+        "6": [
+            {
+                "success": 88,
+                "hesitation_time": 768.9970000000001
+            }
+        ],
+        "2": [
+            {
+                "success": 91,
+                "hesitation_time": 790.9729999999997
+            }
+        ],
+        "8": [
+            {
+                "success": 85,
+                "hesitation_time": 720.532
+            }
+        ]
+    },
+    "random": {
+        "10": [
+            {
+                "success": 36,
+                "hesitation_time": 156.27399999999994
+            }
+        ],
+        "6": [
+            {
+                "success": 37,
+                "hesitation_time": 129.95499999999998
+            }
+        ],
+        "2": [
+            {
+                "success": 39,
+                "hesitation_time": 142.58599999999996
+            }
+        ],
+        "5": [
+            {
+                "success": 30,
+                "hesitation_time": 103.47699999999998
+            }
+        ],
+        "1": [
+            {
+                "success": 28,
+                "hesitation_time": 115.26900000000002
+            },
+            {
+                "success": 28,
+                "hesitation_time": 114.31399999999998
+            }
+        ],
+        "4": [
+            {
+                "success": 44,
+                "hesitation_time": 172.85100000000006
+            }
+        ],
+        "7": [
+            {
+                "success": 32,
+                "hesitation_time": 125.00199999999998
+            }
+        ],
+        "3": [
+            {
+                "success": 39,
+                "hesitation_time": 133.151
+            }
+        ],
+        "8": [
+            {
+                "success": 34,
+                "hesitation_time": 141.89199999999994
+            }
+        ]
+    },
+    "count_true": {
+        "3": [
+            {
+                "success": 90,
+                "hesitation_time": 958.4420000000001
+            }
+        ],
+        "4": [
+            {
+                "success": 75,
+                "hesitation_time": 700.6659999999997
+            }
+        ],
+        "5": [
+            {
+                "success": 83,
+                "hesitation_time": 988.947
+            }
+        ],
+        "2": [
+            {
+                "success": 84,
+                "hesitation_time": 966.8100000000003
+            }
+        ],
+        "1": [
+            {
+                "success": 68,
+                "hesitation_time": 814.971
+            }
+        ]
+    }
+}

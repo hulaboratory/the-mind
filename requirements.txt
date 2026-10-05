@@ -1,0 +1,17 @@
+cerebras==0.0.1
+firebase_admin==7.4.0
+matplotlib==3.11.2
+numpy==2.5.3
+openai==3.24.0
+openai_harmony==0.0.8
+pandas==3.0.6
+plotly==7.1.0
+protobuf==7.36.2
+Requests==2.34.2
+scikit_learn==1.9.1
+streamlit==1.58.0
+torch==2.13.0
+tqdm==4.68.1
+transformers==5.10.2
+vllm==0.28.0
+websockets==16.1.1
