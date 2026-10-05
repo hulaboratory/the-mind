@@ -5,6 +5,7 @@ numpy==2.5.3
 openai==3.24.0
 openai_harmony==0.0.8
 pandas==3.0.6
+pillow==12.3.0
 plotly==7.1.0
 protobuf==7.36.2
 Requests==2.34.2
