@@ -59,8 +59,7 @@ python experiments/LLM/agent_play.py llama8b time_based_half_second 1
 Model names currently handled by the runner include:
 
 ```text
-gpt-oss-120b  gpt-oss-20b  mistral-medium  qwen3-32b
-llama8b       llama1b      llama70b         qwen3-8b
+gpt-oss-120b  gpt-oss-20b qwen3-32b llama8b       llama1b      llama70b         qwen3-8b
 gemini        gpt-5.6-luna gpt-6
 ```
 
@@ -70,12 +69,6 @@ Prompt/timing modes include `time_based_second`,
 
 Game outputs are saved under a model- and prompt-specific directory in
 `results/`.
-
-### API credentials
-
-Hosted-model experiments require the corresponding API credentials. Configure
-credentials through the client/environment configuration used by the relevant
-script, and do not commit secrets to the repository.
 
 ## Human and computer-use experiments
 
