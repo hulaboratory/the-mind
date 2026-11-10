@@ -90,7 +90,9 @@ The strategy-fit analysis (which cognitive strategy best explains each player's 
 Figure 3 for AIC and Figure 10 for BIC) is in `strategy_fit/`. It reads the game-level
 records from `results/`; see `strategy_fit/README.md` for how to run it.
 
-## Citation
-To be updated.
+[//]: # (## Citation)
 
-If you have questions about the code or experiments, please open an issue or contact Xiulin Yang (xiulin.yang.compling@gmail.com)
+[//]: # (To be updated.)
+
+[//]: # ()
+[//]: # (If you have questions about the code or experiments, please open an issue or contact Xiulin Yang &#40;xiulin.yang.compling@gmail.com&#41;)
