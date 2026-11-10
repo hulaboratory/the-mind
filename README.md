@@ -1,6 +1,8 @@
 # The Mind: Rational Use of Time for Social Coordination
 
-This repository contains the code and analysis materials for the paper: Rational Use of Time for Social Coordination in Humans and AI by Xiulin Yang, Sirisha Gudavalli, and Jennifer Hu. 
+This repository contains the code and analysis materials for the paper: Rational Use of Time for Social Coordination in Humans and AI
+
+[//]: # (by Xiulin Yang, Sirisha Gudavalli, and Jennifer Hu. )
 
 ## How the game The Mind works
 
