@@ -411,14 +411,13 @@ alpha_results <- bind_rows(alpha_llm_results, alpha_human_results,
 
 
 print_model_summary <- function(results, model_name, ptype) {
-  row <- results %>% filter(model == model_name, partner_type == ptype)
+  row <- results %>%
+    filter(model == model_name, partner_type == ptype)
   if (nrow(row) == 0) {
-    message("没找到 model = ", model_name, ", partner_type = ", ptype, " 这个组合")
     return(invisible(NULL))
   }
   fit <- row$model_fit[[1]]
   if (is.null(fit)) {
-    message("这个组合的模型没拟合成功（数据不够 / 报错），没有 summary 可看")
     return(invisible(NULL))
   }
   print(summary(fit))
